@@ -1,0 +1,19 @@
+{
+  "include": ["src"],
+  "compilerOptions": {
+    "target": "ES5",
+    "lib": ["DOM", "ScriptHost", "ES5", "ES2015.Promise"],
+    "module": "CommonJS",
+    "rootDir": "src",
+    "baseUrl": "src",
+    // "allowJs": true,
+    "declaration": false,
+    "sourceMap": false,
+    "outDir": "dist",
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "strictNullChecks": false,
+    "skipLibCheck": true
+  }
+}

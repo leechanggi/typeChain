@@ -1,0 +1,25 @@
+// // @ts-check
+// /**
+//  * 서버 초기화
+//  *
+//  * @param {Object} config
+//  *
+//  * @param {Boolean} config.debug
+//  *
+//  * @param {String} config.url
+//  *
+//  * @returns {Boolean}
+//  */
+// export function init(config) {
+//   return true;
+// }
+// /**
+//  * 서버 종료 시 실행
+//  *
+//  * @param {Number} code
+//  *
+//  * @returns {Number}
+//  */
+// export function exit(code) {
+//   return code + 1;
+// }

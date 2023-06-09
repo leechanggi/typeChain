@@ -1,0 +1,11 @@
+// interface Iconfig {
+//   url: string;
+// }
+
+// declare module 'myPackage' {
+//   /**
+//    * 아무튼 뭔가를 초기화 할때 사용하세염!
+//    */
+//   function init(config: Iconfig): boolean;
+//   function exit(code: number): number;
+// }
